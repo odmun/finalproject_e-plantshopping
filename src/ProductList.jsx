@@ -134,7 +134,7 @@ function ProductList() {
           <div className="luxury">
             <img src={Logo} alt="" />
             <a
-              href="/shoppingreact/paradise-nursery-shopping-cart-app/"
+              href="/finalproject_e-plantshopping/paradise-nursery-shopping-cart-app/"
               style={{ textDecoration: "none" }}
             >
               <div>
